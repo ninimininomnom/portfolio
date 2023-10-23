@@ -39,3 +39,19 @@ body{
 .nav-link:hover{
     color: rgb(255, 255, 255);
 }
+.main-pic{
+    /* margin-top: 20px; */
+    display: flex;
+    gap: 30px;
+    margin-bottom: 20px;
+
+  
+   
+}
+/* .pic1-project{
+    width: 500px;
+    height: 500px;
+} */
+.pic1-project img{
+    width: 100%;
+}
